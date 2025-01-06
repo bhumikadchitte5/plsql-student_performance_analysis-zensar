@@ -5,12 +5,12 @@ This project is part of my academic work during ZENSAR training session in Compu
 
 Project Description:  
 Store student data: Information about students, courses, grades.  
-Calculate GPA: Using PL/SQL subqueries, it computes GPA by considering the grades and credits of courses.
-Generate Reports: The project can generate Grade Distribution Reports to get deeper insights.
-Notify Student: Automatically Student will be Notify When any Updatation will be occurs on marks and grade.
-Database Schema:
-1)Student: Stores student details.
-2)Courses: Stores course details with credits.
+Calculate GPA: Using PL/SQL subqueries, it computes GPA by considering the grades and credits of courses.  
+Generate Reports: The project can generate Grade Distribution Reports to get deeper insights.  
+Notify Student: Automatically Student will be Notify When any Updatation will be occurs on marks and grade.  
+Database Schema:  
+1)Student: Stores student details.  
+2)Courses: Stores course details with credits.  
 3)Grades: Stores grades assigned to students.
 
 Thank you!
