@@ -3,7 +3,7 @@ Hi, I'm Bhumika Dinesh Chitte, a Third-year student of Computer Engineering (BE)
 
 This project is part of my academic work during ZENSAR training session in Computer Engineering (BE). The idea behind this project is to create a system that helps in managing student records, calculating GPAs, and analyzing performance based on grades.
 
-Project Description:  
+# Project Description:  
 Store student data: Information about students, courses, grades.  
 Calculate GPA: Using PL/SQL subqueries, it computes GPA by considering the grades and credits of courses.  
 Generate Reports: The project can generate Grade Distribution Reports to get deeper insights.  
