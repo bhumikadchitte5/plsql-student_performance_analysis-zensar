@@ -1,5 +1,5 @@
 # Student Performance Analysis System
-Hi, I'm Bhumika Dinesh Chitte, a Third-year student of Computer Engineering (BE) @ Amrutvahini College of Engineering Sangamner, and this is my project on Student Performance Analysis.
+Hi, I'm Bhumika Dinesh Chitte, a Third-year student of Computer Engineering (BE) from Amrutvahini College of Engineering Sangamner, and this is my project on Student Performance Analysis.
 
 This project is part of my academic work during ZENSAR training session in Computer Engineering (BE). The idea behind this project is to create a system that helps in managing student records, calculating GPAs, and analyzing performance based on grades.
 
@@ -20,4 +20,4 @@ I have created separate .sql files for each module to keep the code organized:
 4)grade_changes_notification.sql – Implements triggers to notify students of grade changes.  
 5)grade_report_generation.sql – Contains the PL/SQL procedures to generate Grade Distribution Reports.
 
-Thank you!
+Thank You!
